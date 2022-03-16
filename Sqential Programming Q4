@@ -1,0 +1,3 @@
+a=float(input("enter first number"))
+d=15/1000*a
+print=("discount is",d)
