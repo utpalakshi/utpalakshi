@@ -1,0 +1,10 @@
+a=float(input("enetr first number"))
+a=float(input("enetr first number"))
+print("values before swapping")
+print("a=",a)
+t=a
+a=b
+b=t
+print("values after swapping")
+print("a=",a)
+print("b=",b)
