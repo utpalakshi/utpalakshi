@@ -1,0 +1,6 @@
+n1=float(input("enter first number"))
+n1=float(input("enter second number"))
+n1=float(input("enter third number"))
+avg=(a+b+c)/3
+print=("Aerage=".average)
+
