@@ -1,0 +1,11 @@
+n=int(input("enter your name"))
+s=0
+n1=n
+while(n>0):
+a=n%10
+s=s*10+a
+n=n//10
+if(s==n1):
+print("yes pallindrome")
+else:
+print("not a palindrome")
