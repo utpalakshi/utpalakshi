@@ -1,0 +1,4 @@
+for nam=input("enter your name")
+n=int(input("enter number of times")
+for i in range(1, n+1, 1):
+print(nam)
