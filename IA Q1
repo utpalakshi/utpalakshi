@@ -1,0 +1,11 @@
+import math
+a = float(input("enter a number:\n"))
+sr = math.sqrt(a)
+tan = math.tan(a)
+log = math.log(a)
+sin = math.sin(a)
+
+print(f"sq root of number you enetred is: {sr}")
+print(f"tan of the number you entered is:{tan}")
+print(f"log of the number you entered is:{log}")
+print(f"sin of the number you entered is:{sin}")
