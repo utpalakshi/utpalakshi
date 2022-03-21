@@ -1,0 +1,8 @@
+rn=int(input("enter your roll number"))
+for i in range(1,36,1):
+id(rn==1)
+x=1
+if(rn==1):
+print("yes, number is present")
+else:
+print("not present")
